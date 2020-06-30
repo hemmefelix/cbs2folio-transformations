@@ -524,7 +524,7 @@
                         <xsl:value-of select="./subfield[@code='a']" />
                       </xsl:if>
                     </note>
-                    <instanceNoteTypeId>6a2533a7-4de2-4e64-8466-074c2fa9308c</instanceNoteTypeId> <!-- general -->
+                    <instanceNoteTypeId>d548fdff-b71c-4359-8055-f1c008c30f01</instanceNoteTypeId> <!-- reproduction note -->
                   </xsl:when>
                 </xsl:choose>
             </i>
